@@ -4,3 +4,5 @@ spring websocket chating room
 1.群发消息给所有人  
 2.悄悄话给某个人  
 ![chating-room](https://github.com/leechenxiang/maven-spring-websocket-01/blob/master/image.png) 
+
+http://localhost:8080/websocket/chat
